@@ -1,0 +1,7 @@
+- Verificar o cpf no módulo cadastro
+- Filtrar o telefone, cpf e email
+- Gerar exceção ao mudar senha sem estar logado (token = '') - Feito
+- Tornar as páginas responsivas
+- Email ou nome único
+- Instalar Ganache & Truffle
+- 
