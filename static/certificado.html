@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' href='certificado.css'>
+
+</head>
+
+<body>
+    <header>
+        <img src="./imagem.png" alt="Imagem Logo">
+        <h4>Gerar certificado</h4>
+        <h1>TCC-Blockchain</h1>
+    </header>
+
+    <main>
+        <label for="">Digite o nome</label>
+        <input type="text" name="nome" id="nome" autocomplete="name" required>
+        <button id="gerar">Gerar certificado</button>
+    </main>
+
+    <script src="https://unpkg.com/pdf-lib/dist/pdf-lib.min.js"></script>
+    <script src="https://unpkg.com/@pdf-lib/fontkit@0.0.4"></script>
+    <script src="./FileSaver.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>

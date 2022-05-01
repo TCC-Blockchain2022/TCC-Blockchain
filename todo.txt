@@ -1,0 +1,9 @@
+- Verificar o cpf no módulo cadastro
+- Filtrar o telefone, cpf e email
+- Gerar exceção ao mudar senha sem estar logado (token = '') - Feito
+- Tornar as páginas responsivas
+- Email ou nome único
+- Instalar Ganache & Truffle
+- Possibilitar o usuário escolher o certificado ("baixar vários modelos e fazer um array com o endereço deles")
+- Função de centralizar o nome no certificado
+- Backend do certificado

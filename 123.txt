@@ -1,0 +1,3 @@
+Fazer a tela dos certificados(coleta de dados) - Calaça
+Criar o certificado - Beto ?
+Emitir certificado em PDF - SEM BLOCKCHAIN - Ricardo ?
